@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vimalabaskar
-- 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...data analyst
+- 👀 I’m interested in ...python developer 
+- 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...data analyst
+- 📫 How to reach me ...python developer
 
 <!---
 vimalabaskar/vimalabaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
